@@ -51,7 +51,7 @@ function Volunteer() {
         </div>
 
         <form
-  action="https://formsubmit.co/jhojtasaurav@gmail.com"
+  action="https://formsubmit.co/aadaramfoundation@gmail.com"
   method="POST"
   onSubmit={(e) => {
     const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
