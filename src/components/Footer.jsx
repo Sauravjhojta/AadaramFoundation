@@ -119,17 +119,6 @@ function Footer() {
               </a>
             </div>
 
-            <div className="flex items-center gap-3">
-              <Phone size={18} />
-
-              <a
-                href="tel:+918352924490"
-                className="hover:text-[#7ED957] transition"
-              >
-                +91 8352924490
-              </a>
-            </div>
-
             <div className="flex items-start gap-3">
               <MapPin size={18} />
               <span>Himachal Pradesh, India</span>
