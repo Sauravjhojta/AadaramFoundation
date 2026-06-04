@@ -84,28 +84,27 @@ function About() {
         </p>
 
         {/* Animated Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10">
+        <div className="grid grid-cols-3 gap-4 md:gap-10">
 
-          <StatCard
-            end={200}
-            suffix="+"
-            label="Trees Planted"
-          />
+  <StatCard
+    end={200}
+    suffix="+"
+    label="Trees Planted"
+  />
 
-          <StatCard
-            end={25}
-            suffix="+"
-            label="Animals Helped"
-          />
+  <StatCard
+    end={25}
+    suffix="+"
+    label="Animals Helped"
+  />
 
-          <StatCard
-            end={70}
-            suffix="+"
-            label="Volunteers"
-          />
+  <StatCard
+    end={70}
+    suffix="+"
+    label="Volunteers"
+  />
 
-        </div>
-
+</div>
         <button className="mt-10 md:mt-14 bg-[#14532d] hover:bg-[#166534] text-white px-6 md:px-8 py-3 md:py-4 rounded-full font-semibold transition duration-300">
           Learn More
         </button>
