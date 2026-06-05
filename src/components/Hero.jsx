@@ -31,7 +31,7 @@ function Hero() {
             />
 
          <div className="absolute inset-0 bg-black/35">
-  <div className="absolute bottom-6 right-4 md:bottom-4 md:right-4 lg:bottom-24 lg:right-28 text-right max-w-3xl">
+  <div className="absolute bottom-8 right-4 md:bottom-4 md:right-4 lg:bottom-24 lg:right-28 text-right max-w-3xl">
                 <h2
                   className="
                   text-white
